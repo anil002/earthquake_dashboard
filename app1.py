@@ -21,16 +21,16 @@ from scipy.stats import pearsonr
 
 # Set page configuration
 st.set_page_config(
-    page_title="Earthquake Prediction Dashboard",
+    page_title="Earthquake Monitoring Dashboard",
     page_icon="🌎",
     layout="wide"
 )
 
 # Title and description
-st.title("🌎 Earthquake Prediction Dashboard")
+st.title("🌎 Earthquake Monitoring Dashboard")
 st.write("Explore earthquake data and predictions using machine learning models.")
 st.markdown("""
-This dashboard helps you explore earthquake data with easy-to-understand visualizations and prediction tools.
+This dashboard helps you explore earthquake data with easy-to-understand visualizations and prediction tools(based on data).
 Data comes from the USGS Earthquake Catalog, which is the official source for earthquake information in the United States(Develop By: Dr. Anil Kumar Singh) .
 """)
 
