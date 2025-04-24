@@ -31,7 +31,7 @@ st.title("🌎 Earthquake Monitoring Dashboard")
 st.write("Explore earthquake data and predictions using machine learning models.")
 st.markdown("""
 This dashboard helps you explore earthquake data with easy-to-understand visualizations and prediction tools(based on data).
-Data comes from the USGS Earthquake Catalog, which is the official source for earthquake information in the United States(Develop By: Dr. Anil Kumar Singh) .
+Data comes from the USGS Earthquake Catalog, which is the official source for earthquake information in the United States .
 """)
 st.markdown("Developed by: **Dr. Anil Kumar Singh**")
 st.markdown("Email: **singhanil854@gmail.com**")
